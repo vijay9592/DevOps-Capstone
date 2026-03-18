@@ -8,7 +8,7 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": ["nodejs", "express", "devops", "docker", "ci-cd"],
-  "author": "Vijay9592",
+  "author": "",
   "license": "ISC",
   "type": "commonjs",
   "dependencies": {
